@@ -13,7 +13,8 @@ gedit: []
 glade: []
 glimpse-editor: []
 gnome-2048: []
-gnome-3-26-1604: []
+gnome-3-26-1604:
+- 113
 gnome-3-28-1804: []
 gnome-3-34-1804: []
 gnome-3-34-1804-sdk: []
