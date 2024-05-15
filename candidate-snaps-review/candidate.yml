@@ -1,13 +1,13 @@
 cheese:
 - 43
 cherrytree: []
-chromium: []
+chromium:
+- 2854
 eog: []
 epiphany: []
 evince:
 - 1046
-firefox:
-- 4259
+firefox: []
 five-or-more: []
 gedit: []
 glade: []
