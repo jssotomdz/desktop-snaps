@@ -3,7 +3,8 @@ cheese:
 cherrytree: []
 chromium: []
 eog: []
-epiphany: []
+epiphany:
+- 184
 evince:
 - 1048
 firefox: []
