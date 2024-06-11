@@ -44,7 +44,7 @@ gnome-nibbles: []
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku:
-- 114
+- 116
 gnome-system-monitor: []
 gnome-taquin: []
 gnome-tetravex: []
@@ -56,8 +56,7 @@ kisak-fresh/gaming-graphics-core22:
 - 175
 kisak-turtle/gaming-graphics-core22:
 - 174
-libreoffice:
-- 322
+libreoffice: []
 lightsoff: []
 oibaf-latest/gaming-graphics-core22: []
 quadrapassel: []
