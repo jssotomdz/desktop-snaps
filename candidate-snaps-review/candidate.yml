@@ -1,16 +1,20 @@
 cheese:
-- 46
+- 49
 cherrytree: []
 chromium:
 - 2897
-eog: []
-epiphany: []
+eog:
+- 730
+epiphany:
+- 188
 evince:
-- 1050
+- 1052
 firefox: []
-five-or-more: []
+five-or-more:
+- 193
 gedit: []
-glade: []
+glade:
+- 430
 glimpse-editor: []
 gnome-2048: []
 gnome-3-26-1604:
@@ -25,7 +29,7 @@ gnome-42-2204-sdk:
 - 264
 gnome-boxes: []
 gnome-calculator:
-- 959
+- 961
 gnome-calendar: []
 gnome-characters: []
 gnome-chess: []
