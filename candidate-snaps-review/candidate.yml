@@ -1,11 +1,10 @@
 cheese:
-- 49
+- 52
 cherrytree: []
 chromium: []
 eog:
 - 730
-epiphany:
-- 188
+epiphany: []
 evince:
 - 1052
 firefox: []
@@ -32,7 +31,8 @@ gnome-calculator:
 gnome-calendar: []
 gnome-characters: []
 gnome-chess: []
-gnome-clocks: []
+gnome-clocks:
+- 471
 gnome-contacts:
 - 251
 gnome-dictionary: []
@@ -48,7 +48,7 @@ gnome-nibbles: []
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku:
-- 118
+- 120
 gnome-system-monitor: []
 gnome-taquin:
 - 37
