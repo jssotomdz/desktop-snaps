@@ -8,8 +8,7 @@ eog:
 epiphany: []
 evince:
 - 1052
-firefox:
-- 4539
+firefox: []
 five-or-more:
 - 193
 gedit: []
@@ -61,9 +60,9 @@ gtk-common-themes: []
 iagno:
 - 39
 kisak-fresh/gaming-graphics-core22:
-- 176
+- 178
 kisak-turtle/gaming-graphics-core22:
-- 177
+- 179
 libreoffice: []
 lightsoff: []
 oibaf-latest/gaming-graphics-core22: []
@@ -75,5 +74,5 @@ swell-foop: []
 tali:
 - 360
 thunderbird:
-- 472
+- 496
 ubuntu-desktop-installer: []
