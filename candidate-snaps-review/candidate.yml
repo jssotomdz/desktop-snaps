@@ -1,16 +1,17 @@
 cheese:
-- 52
+- 55
 cherrytree: []
 chromium:
 - 2905
 eog:
-- 730
-epiphany: []
+- 732
+epiphany:
+- 194
 evince:
-- 1052
+- 1054
 firefox: []
 five-or-more:
-- 193
+- 195
 gedit: []
 glade:
 - 430
@@ -33,16 +34,16 @@ gnome-calendar: []
 gnome-characters: []
 gnome-chess: []
 gnome-clocks:
-- 471
+- 473
 gnome-contacts:
 - 251
 gnome-dictionary: []
 gnome-font-viewer:
-- 51
+- 53
 gnome-hitori: []
 gnome-klotski: []
 gnome-logs:
-- 126
+- 127
 gnome-mahjongg: []
 gnome-mines: []
 gnome-nibbles: []
@@ -74,6 +75,5 @@ steam: []
 swell-foop: []
 tali:
 - 360
-thunderbird:
-- 497
+thunderbird: []
 ubuntu-desktop-installer: []
