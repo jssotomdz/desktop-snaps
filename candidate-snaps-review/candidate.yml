@@ -16,7 +16,8 @@ gedit: []
 glade:
 - 430
 glimpse-editor: []
-gnome-2048: []
+gnome-2048:
+- 58
 gnome-3-26-1604:
 - 113
 gnome-3-28-1804: []
@@ -29,23 +30,28 @@ gnome-42-2204-sdk:
 - 268
 gnome-boxes: []
 gnome-calculator:
-- 961
+- 963
 gnome-calendar: []
-gnome-characters: []
-gnome-chess: []
+gnome-characters:
+- 799
+gnome-chess:
+- 91
 gnome-clocks:
 - 473
 gnome-contacts:
-- 251
+- 252
 gnome-dictionary: []
 gnome-font-viewer:
 - 53
-gnome-hitori: []
+gnome-hitori:
+- 328
 gnome-klotski: []
 gnome-logs:
 - 127
-gnome-mahjongg: []
-gnome-mines: []
+gnome-mahjongg:
+- 176
+gnome-mines:
+- 314
 gnome-nibbles: []
 gnome-recipes: []
 gnome-robots: []
@@ -64,8 +70,7 @@ kisak-fresh/gaming-graphics-core22:
 - 178
 kisak-turtle/gaming-graphics-core22:
 - 179
-libreoffice:
-- 324
+libreoffice: []
 lightsoff: []
 oibaf-latest/gaming-graphics-core22: []
 quadrapassel:
