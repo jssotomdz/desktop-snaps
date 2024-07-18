@@ -2,7 +2,7 @@ cheese:
 - 55
 cherrytree: []
 chromium:
-- 2905
+- 2910
 eog:
 - 732
 epiphany:
@@ -52,11 +52,12 @@ gnome-mahjongg:
 - 176
 gnome-mines:
 - 314
-gnome-nibbles: []
+gnome-nibbles:
+- 137
 gnome-recipes: []
 gnome-robots: []
 gnome-sudoku:
-- 120
+- 122
 gnome-system-monitor: []
 gnome-taquin:
 - 37
