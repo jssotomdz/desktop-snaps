@@ -9,7 +9,8 @@ epiphany:
 - 194
 evince:
 - 1054
-firefox: []
+firefox:
+- 4625
 five-or-more:
 - 195
 gedit: []
@@ -40,12 +41,14 @@ gnome-clocks:
 - 473
 gnome-contacts:
 - 252
-gnome-dictionary: []
+gnome-dictionary:
+- 61
 gnome-font-viewer:
 - 53
 gnome-hitori:
 - 328
-gnome-klotski: []
+gnome-klotski:
+- 114
 gnome-logs:
 - 127
 gnome-mahjongg:
@@ -58,7 +61,8 @@ gnome-recipes: []
 gnome-robots: []
 gnome-sudoku:
 - 122
-gnome-system-monitor: []
+gnome-system-monitor:
+- 189
 gnome-taquin:
 - 37
 gnome-tetravex: []
@@ -81,5 +85,6 @@ steam: []
 swell-foop: []
 tali:
 - 360
-thunderbird: []
+thunderbird:
+- 500
 ubuntu-desktop-installer: []
