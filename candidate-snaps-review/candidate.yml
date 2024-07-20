@@ -1,18 +1,17 @@
 cheese:
-- 55
+- 58
 cherrytree: []
-chromium:
-- 2910
+chromium: []
 eog:
 - 732
 epiphany:
-- 194
+- 196
 evince:
 - 1054
 firefox:
 - 4625
 five-or-more:
-- 195
+- 197
 gedit: []
 glade:
 - 430
@@ -42,13 +41,13 @@ gnome-clocks:
 gnome-contacts:
 - 252
 gnome-dictionary:
-- 61
+- 62
 gnome-font-viewer:
 - 53
 gnome-hitori:
 - 328
 gnome-klotski:
-- 114
+- 115
 gnome-logs:
 - 127
 gnome-mahjongg:
@@ -58,33 +57,37 @@ gnome-mines:
 gnome-nibbles:
 - 137
 gnome-recipes: []
-gnome-robots: []
+gnome-robots:
+- 121
 gnome-sudoku:
 - 122
 gnome-system-monitor:
 - 189
 gnome-taquin:
-- 37
-gnome-tetravex: []
+- 39
+gnome-tetravex:
+- 285
 gnome-text-editor:
-- 40
+- 42
 gtk-common-themes: []
 iagno:
-- 39
+- 40
 kisak-fresh/gaming-graphics-core22:
 - 178
 kisak-turtle/gaming-graphics-core22:
 - 179
 libreoffice: []
-lightsoff: []
+lightsoff:
+- 159
 oibaf-latest/gaming-graphics-core22: []
 quadrapassel:
-- 486
+- 489
 snap-store: []
 steam: []
-swell-foop: []
+swell-foop:
+- 118
 tali:
-- 360
+- 363
 thunderbird:
 - 500
 ubuntu-desktop-installer: []
