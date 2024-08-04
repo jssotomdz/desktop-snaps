@@ -5,7 +5,7 @@ chromium: []
 eog:
 - 732
 epiphany:
-- 196
+- 198
 evince:
 - 1054
 firefox:
@@ -61,7 +61,7 @@ gnome-recipes: []
 gnome-robots:
 - 121
 gnome-sudoku:
-- 122
+- 124
 gnome-system-monitor:
 - 189
 gnome-taquin:
