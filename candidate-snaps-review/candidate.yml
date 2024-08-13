@@ -1,18 +1,19 @@
 cheese:
 - 58
 cherrytree: []
-chromium:
-- 2925
+chromium: []
 eog:
 - 732
 epiphany:
 - 198
 evince:
 - 1054
-firefox: []
+firefox:
+- 4757
 five-or-more:
 - 197
-gedit: []
+gedit:
+- 686
 glade:
 - 430
 glimpse-editor: []
@@ -84,7 +85,8 @@ oibaf-latest/gaming-graphics-core22: []
 quadrapassel:
 - 489
 snap-store: []
-steam: []
+steam:
+- 200
 swell-foop:
 - 118
 tali:
