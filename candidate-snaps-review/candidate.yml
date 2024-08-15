@@ -1,7 +1,8 @@
 cheese:
 - 58
 cherrytree: []
-chromium: []
+chromium:
+- 2929
 eog:
 - 732
 epiphany:
@@ -84,8 +85,7 @@ oibaf-latest/gaming-graphics-core22: []
 quadrapassel:
 - 489
 snap-store: []
-steam:
-- 200
+steam: []
 swell-foop:
 - 118
 tali:
