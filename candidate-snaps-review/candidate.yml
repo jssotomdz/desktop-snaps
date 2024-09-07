@@ -1,8 +1,7 @@
 cheese:
 - 58
 cherrytree: []
-chromium:
-- 2943
+chromium: []
 eog:
 - 732
 epiphany:
@@ -91,6 +90,5 @@ swell-foop:
 - 118
 tali:
 - 363
-thunderbird:
-- 509
+thunderbird: []
 ubuntu-desktop-installer: []
