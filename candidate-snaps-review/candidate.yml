@@ -1,8 +1,7 @@
 cheese:
 - 61
 cherrytree: []
-chromium:
-- 2953
+chromium: []
 eog:
 - 734
 epiphany:
@@ -29,7 +28,7 @@ gnome-3-38-2004-sdk: []
 gnome-42-2204:
 - 185
 gnome-42-2204-sdk:
-- 273
+- 278
 gnome-boxes: []
 gnome-calculator:
 - 965
@@ -91,6 +90,5 @@ swell-foop:
 - 120
 tali:
 - 366
-thunderbird:
-- 515
+thunderbird: []
 ubuntu-desktop-installer: []
