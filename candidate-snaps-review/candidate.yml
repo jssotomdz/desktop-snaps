@@ -72,15 +72,13 @@ gnome-tetravex:
 gnome-text-editor:
 - 44
 gtk-common-themes:
-- 1536
+- 1537
 iagno:
 - 43
-kisak-fresh/gaming-graphics-core22:
-- 184
-kisak-turtle/gaming-graphics-core22:
-- 185
+kisak-fresh/gaming-graphics-core22: []
+kisak-turtle/gaming-graphics-core22: []
 libreoffice:
-- 329
+- 330
 lightsoff:
 - 162
 oibaf-latest/gaming-graphics-core22: []
