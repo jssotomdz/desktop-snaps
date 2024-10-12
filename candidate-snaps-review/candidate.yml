@@ -26,7 +26,7 @@ gnome-3-34-1804-sdk: []
 gnome-3-38-2004: []
 gnome-3-38-2004-sdk: []
 gnome-42-2204:
-- 185
+- 188
 gnome-42-2204-sdk:
 - 278
 gnome-boxes: []
@@ -72,11 +72,13 @@ gnome-tetravex:
 gnome-text-editor:
 - 44
 gtk-common-themes:
-- 1537
+- 1538
 iagno:
 - 43
-kisak-fresh/gaming-graphics-core22: []
-kisak-turtle/gaming-graphics-core22: []
+kisak-fresh/gaming-graphics-core22:
+- 186
+kisak-turtle/gaming-graphics-core22:
+- 187
 libreoffice:
 - 330
 lightsoff:
@@ -90,6 +92,5 @@ swell-foop:
 - 120
 tali:
 - 366
-thunderbird:
-- 532
+thunderbird: []
 ubuntu-desktop-installer: []
