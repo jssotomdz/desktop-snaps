@@ -8,8 +8,7 @@ epiphany:
 - 201
 evince:
 - 1056
-firefox:
-- 5120
+firefox: []
 five-or-more:
 - 199
 gedit:
@@ -93,5 +92,6 @@ swell-foop:
 - 120
 tali:
 - 366
-thunderbird: []
+thunderbird:
+- 536
 ubuntu-desktop-installer: []
