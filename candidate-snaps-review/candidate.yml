@@ -5,7 +5,7 @@ chromium: []
 eog:
 - 734
 epiphany:
-- 201
+- 203
 evince:
 - 1056
 firefox:
@@ -88,7 +88,8 @@ oibaf-latest/gaming-graphics-core22: []
 quadrapassel:
 - 492
 snap-store: []
-steam: []
+steam:
+- 206
 swell-foop:
 - 120
 tali:
